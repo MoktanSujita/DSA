@@ -11,7 +11,7 @@ int main()
   
   for (int i = 0; i <= num; i++)
   {
-    printf("/n %d\n",fibo(i));
+    printf("/n %d\n",fibo(i));//function call
   }
   return 0;
 }
